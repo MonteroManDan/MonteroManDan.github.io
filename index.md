@@ -1,4 +1,4 @@
- #Daniel Cano
+## Daniel Cano
 
 ### **Lab 1 parts 1 and 2:**
 
