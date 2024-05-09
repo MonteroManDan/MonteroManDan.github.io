@@ -1,5 +1,8 @@
 ## Daniel Cano 
 
+## Hello all, I am a computer science major, planning to hopefully graduate in 2026, this is my portfolio reflecting on some of my favorite bodies of work
+## such as:
+
 ### **Lab 1 parts 1 and 2:**
 
 #### This lab was especially intriguing because of the fact that it was the first lab that exposed me to programming and like anything else, the first is the most memorable, as it opens you up as to what there is to expect going forward. This lab along with the contributions of my partner who also was on the same level in terms of programming experience made for a cornerstone that hopefully creates a strong foundation of the fundamental building blocks of programming. Looking back some of the base level concepts and things that we did are things that I still reference from time to time until I get a better understanding of some things and for that, it was my favorite Lab.
