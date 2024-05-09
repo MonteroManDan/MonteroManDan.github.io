@@ -1,7 +1,6 @@
 ## Daniel Cano 
 
-## Hello all, I am a computer science major, planning to hopefully graduate in 2026, this is my portfolio reflecting on some of my favorite bodies of work
-## such as:
+## Hello all, I am a computer science major, planning to hopefully graduate in 2026, this is my portfolio reflecting on some of my favorite bodies of work such as:
 
 ### **Lab 1 parts 1 and 2:**
 
